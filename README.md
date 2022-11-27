@@ -1,3 +1,6 @@
+[**Plans on Zeref's automation scripts**](https://github.com/users/Akatmks/projects/2)  
+Plans on maintaining Zeref's automation scripts  
+
 [**Aegisub automation scripts**](https://github.com/users/Akatmks/projects/1)  
 Akatsumekusa's plans on various Aegsiub scripts  
 
