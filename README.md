@@ -3,4 +3,3 @@
 [Akatmks/**vsquickview**](https://github.com/Akatmks/vsquickview)  
 [Akatmks/**vsoneliner**](https://github.com/Akatmks/vsoneliner)  
 [Akatmks/**unanimated-Aegisub-Scripts**](https://github.com/Akatmks/unanimated-Aegisub-Scripts)  
-[Akatmks/homebrew-vapoursynth-plugins](https://github.com/Akatmks/homebrew-vapoursynth-plugins)  
