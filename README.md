@@ -1,5 +1,6 @@
 *Typesetting:*  
 [Akatmks/**Akatsumekusa-Aegisub-Scripts**](https://github.com/Akatmks/Akatsumekusa-Aegisub-Scripts)  
+[Zahuczky/**Zahuczkys-Aegisub-Scripts**](https://github.com/Zahuczky/Zahuczkys-Aegisub-Scripts)
 [Akatmks/**unanimated-Aegisub-Scripts**](https://github.com/Akatmks/unanimated-Aegisub-Scripts)  
 
 *Encoding:*  
