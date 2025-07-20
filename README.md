@@ -5,6 +5,7 @@
 
 *Encoding:*  
 [Akatmks/**Akatsumekusa-Encoding-Scripts**](https://github.com/Akatmks/Akatsumekusa-Encoding-Scripts)  
+[BlueSwordM/**svt-av1-psyex**](https://github.com/BlueSwordM/svt-av1-psyex)  
 [Akatmks/**svt-av1-psy-quality**](https://github.com/Akatmks/svt-av1-psy-quality)  
 [Akatmks/**vsquickview**](https://github.com/Akatmks/vsquickview)  
 [Akatmks/**vsoneliner**](https://github.com/Akatmks/vsoneliner)  
