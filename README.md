@@ -8,6 +8,8 @@
 [5fish/**svt-av1-psy**](https://github.com/5fish/svt-av1-psy)  
 [BlueSwordM/**svt-av1-psyex**](https://github.com/BlueSwordM/svt-av1-psyex)  
 [Akatmks/**svt-av1-psy-quality**](https://github.com/Akatmks/svt-av1-psy-quality)  
+
+*Filtering:*  
 [Akatmks/**vsquickview**](https://github.com/Akatmks/vsquickview)  
 [Akatmks/**homebrew-vapoursynth-plugins**](https://github.com/Akatmks/homebrew-vapoursynth-plugins)  
 [Akatmks/**vsoneliner**](https://github.com/Akatmks/vsoneliner)  
