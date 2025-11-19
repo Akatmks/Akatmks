@@ -7,6 +7,7 @@
 [Akatmks/**Akatsumekusa-Encoding-Scripts**](https://github.com/Akatmks/Akatsumekusa-Encoding-Scripts)  
 [5fish/**svt-av1-psy**](https://github.com/5fish/svt-av1-psy)  
 [BlueSwordM/**svt-av1-psyex**](https://github.com/BlueSwordM/svt-av1-psyex)  
+[juliobbv-p/**svt-av1-hdr**](https://github.com/juliobbv-p/svt-av1-hdr)  
 [Akatmks/**svt-av1-psy-quality**](https://github.com/Akatmks/svt-av1-psy-quality)  
 
 *Filtering:*  
