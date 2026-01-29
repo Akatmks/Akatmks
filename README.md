@@ -4,10 +4,9 @@
 [Akatmks/**unanimated-Aegisub-Scripts**](https://github.com/Akatmks/unanimated-Aegisub-Scripts)  
 
 *Encoding:*  
-[Akatmks/**Akatsumekusa-Encoding-Scripts**](https://github.com/Akatmks/Akatsumekusa-Encoding-Scripts)  
 [5fish/**svt-av1-psy**](https://github.com/5fish/svt-av1-psy)  
-[juliobbv-p/**svt-av1-hdr**](https://github.com/juliobbv-p/svt-av1-hdr)  
 [Akatmks/**svt-av1-psy-quality**](https://github.com/Akatmks/svt-av1-psy-quality)  
+[Akatmks/**Akatsumekusa-Encoding-Scripts**](https://github.com/Akatmks/Akatsumekusa-Encoding-Scripts)  
 
 *Filtering:*  
 [Akatmks/**vsquickview**](https://github.com/Akatmks/vsquickview)  
