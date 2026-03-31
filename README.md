@@ -9,10 +9,8 @@
 [Akatmks/**Akatsumekusa-Encoding-Scripts**](https://github.com/Akatmks/Akatsumekusa-Encoding-Scripts)  
 
 *Filtering:*  
-[Akatmks/**Akatsumekusa-Encoding-Scripts**](https://github.com/Akatmks/Akatsumekusa-Encoding-Scripts)  
 [Akatmks/**vsquickview**](https://github.com/Akatmks/vsquickview)  
-[Akatmks/**homebrew-vapoursynth-plugins**](https://github.com/Akatmks/homebrew-vapoursynth-plugins)  
-[Akatmks/**vsoneliner**](https://github.com/Akatmks/vsoneliner)  
+[Akatmks/**Akatsumekusa-Encoding-Scripts**](https://github.com/Akatmks/Akatsumekusa-Encoding-Scripts)  
 
 *Misc:*  
 [Akatmks/**Akatsumekusa-General-Scripts**](https://github.com/Akatmks/Akatsumekusa-General-Scripts)  
