@@ -6,6 +6,7 @@
 *Encoding:*  
 [5fish/**SVT-AV1**](https://github.com/5fish/SVT-AV1)  
 [Akatmks/**SVT-AV1-Builds**](https://github.com/Akatmks/SVT-AV1-Builds)  
+[Akatmks/**build-svt-av1**](https://github.com/Akatmks/build-svt-av1)  
 [Jaded-Encoding-Thaumaturgy/**vs-muxtools**](https://github.com/Jaded-Encoding-Thaumaturgy/vs-muxtools)  
 [Akatmks/**Akatsumekusa-Encoding-Scripts**](https://github.com/Akatmks/Akatsumekusa-Encoding-Scripts)  
 
